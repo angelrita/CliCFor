@@ -58,6 +58,13 @@ The table below reports the actual study sites considered during the project aft
 - `WP4 - Dissemination & communication`: publications, outreach, metadata, and open science outputs
 - `WP5 - Project & data management`: coordination, reproducibility, and data organization
 
+## Model used in the project
+
+CliCFor used the process-based forest model `3D-CMCC-FEM` within the modeling component of the project.
+
+- Project repository used for this work: [angelrita/3D-CMCC-FEM](https://github.com/angelrita/3D-CMCC-FEM)
+- Original model repository: [Forest-Modelling-Lab/3D-CMCC-FEM](https://github.com/Forest-Modelling-Lab/3D-CMCC-FEM)
+
 ## Repository scope
 
 This repository is being updated progressively after the end of the project to better organize documentation, data products, and analysis workflows.
