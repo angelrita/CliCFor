@@ -23,7 +23,7 @@ world <- st_as_sf(map("world", plot = FALSE, fill = TRUE))
 sites_sf <- st_as_sf(sites, coords = c("lon", "lat"), crs = 4326)
 
 map_plot <- ggplot() +
-  geom_sf(data = world, fill = "#f3efe6", color = "#d4ccbc", linewidth = 0.2) +
+  geom_sf(data = world, fill = "#f7f8f8", color = "#d2d8da", linewidth = 0.2) +
   geom_segment(
     data = sites,
     aes(x = lon, y = lat, xend = label_lon, yend = label_lat),
@@ -38,7 +38,7 @@ map_plot <- ggplot() +
     size = 3.2,
     linewidth = 0.15,
     label.padding = unit(0.18, "lines"),
-    fill = "#fffaf2",
+    fill = "#ffffff",
     color = "#1f2a2a"
   ) +
   coord_sf(
@@ -54,7 +54,7 @@ map_plot <- ggplot() +
   theme_minimal(base_size = 11) +
   theme(
     panel.background = element_rect(fill = "#dfe9ec", color = NA),
-    plot.background = element_rect(fill = "#fffaf2", color = NA),
+    plot.background = element_rect(fill = "#ffffff", color = NA),
     panel.grid.major = element_line(color = "#cdd8db", linewidth = 0.2),
     axis.title = element_blank(),
     axis.text = element_blank(),
@@ -73,5 +73,5 @@ ggsave(
   width = 11,
   height = 6.6,
   dpi = 220,
-  bg = "#fffaf2"
+  bg = "#ffffff"
 )

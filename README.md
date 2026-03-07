@@ -27,27 +27,29 @@ The project combines approaches that are often used separately:
 
 The table below reports the actual study sites considered during the project after the later reassessment of site selection.
 
-| Code | Site name | Country | Lat. (deg N) | Lon. (deg E) | Elev. (m a.s.l.) | Tree species | MAT (deg C) | MAP (mm) | EC time-span | GPP (g C m^-2 yr^-1) | N. trees | QWA time-span |
-| --- | --- | --- | ---: | ---: | ---: | --- | ---: | ---: | --- | ---: | ---: | --- |
-| `OJP` | Old Jack Pine | Canada | 53.916 | -104.692 | 524 | `P. banksiana` | 0.5 | 495 | 1999-2021 | 606 | 8 | 1921-2021 |
-| `OBS` | Old Black Spruce | Canada | 53.987 | -105.118 | 629 | `P. mariana` | 0.6 | 451 | 1999-2021 | 806 | 11 | 1909-2021 |
-| `TP` | Turkey Point | Canada | 42.710 | -80.357 | 184 | `P. strobus` | 8.0 | 997 | 2003-2018 | 1434 | 12 | 1957-2019 |
-| `REN` | Renon | Italy | 46.587 | 11.434 | 1735 | `P. abies` | 6.0 | 964 | 1999-2020 | 1350 | 9 | 1929-2020 |
-| `SR` | San Rossore | Italy | 43.731 | 10.910 | 5 | `P. pinea` | 15.3 | 900 | 2013-2024 | 2651 | 9 | 1943-2022 |
-| `TOR` | Torgnon | Italy | 45.823 | 7.561 | 2050 | `L. decidua` | 2.9 | 1100 | 2012-2020 | 1322 | 8 | 1935-2021 |
+| Acronym | Site Name | Country | Lat. (deg N) | Lon. (deg E) | Elev. (m a.s.l.) | Tree Species | MAT (deg C) | MAP (mm) | EC time-span | GPP (g C m^-2 yr^-1) | QWA time-span |
+| --- | --- | --- | ---: | ---: | ---: | --- | ---: | ---: | --- | ---: | --- |
+| `OJP` | Old Jack Pine | Canada | 53.916 | -104.692 | 524 | `P. banksiana` | 0.5 | 495 | 1999-2021 | 606 | 1921-2021 |
+| `OBS` | Old Black Spruce | Canada | 53.987 | -105.118 | 629 | `P. mariana` | 0.6 | 451 | 1999-2021 | 806 | 1909-2021 |
+| `TP` | Turkey Point | Canada | 42.710 | -80.357 | 184 | `P. strobus` | 8.0 | 997 | 2003-2018 | 1434 | 1957-2019 |
+| `REN` | Renon | Italy | 46.587 | 11.434 | 1735 | `P. abies` | 6.0 | 964 | 1999-2020 | 1350 | 1929-2020 |
+| `SR` | San Rossore | Italy | 43.731 | 10.910 | 5 | `P. pinea` | 15.3 | 900 | 2013-2024 | 2651 | 1943-2022 |
+| `TOR` | Torgnon | Italy | 45.823 | 7.561 | 2050 | `L. decidua` | 2.9 | 1100 | 2012-2020 | 1322 | 1935-2021 |
+
+Tab. 1. `Site Name`, the name of the forest research site where Eddy Covariance flux tower and tree sampling were conducted; `Acronym`, abbreviated code used to identify each site in figures, tables, and text; `Lat.`, geographic latitude of the site; `Lon.`, geographic longitude of the site; `Elev.`, elevation of the site; `MAT`, Mean Annual Temperature; `MAP`, Mean Annual Precipitation; `EC time-span`, time period during which eddy covariance measurements of carbon fluxes were available; `GPP`, mean annual Gross Primary Production; `QWA time-span`, time span covered by the xylem anatomical series.
 
 ![Global map of CliCFor study sites](docs/figures/study_sites_map.png)
 
 ## Research units and roles
 
 - `UNIPD` - University of Padova, PI unit
-  - Principal Investigator: Daniele Castagneri
+  - Principal Investigator: Daniele Castagneri ([ORCID](https://orcid.org/0000-0002-2092-7415))
   - Main role: tree-ring analysis, quantitative wood anatomy, project coordination
 - `UNINA` - University of Naples Federico II
-  - Unit lead: Angelo Rita
+  - Unit lead: Angelo Rita ([ORCID](https://orcid.org/0000-0002-6579-7925))
   - Main role: integrated data analysis, statistical modeling, process-based modeling
 - `UNIBZ` - Free University of Bolzano
-  - Unit lead: Leonardo Montagnani
+  - Unit lead: Leonardo Montagnani ([ORCID](https://orcid.org/0000-0003-2957-9071))
   - Main role: eddy covariance flux analysis and site-level flux data coordination
 
 ## Work packages
@@ -64,6 +66,17 @@ CliCFor used the process-based forest model `3D-CMCC-FEM` within the modeling co
 
 - Project repository used for this work: [angelrita/3D-CMCC-FEM](https://github.com/angelrita/3D-CMCC-FEM)
 - Original model repository: [Forest-Modelling-Lab/3D-CMCC-FEM](https://github.com/Forest-Modelling-Lab/3D-CMCC-FEM)
+
+## Dissemination and communication
+
+This repository will document only verified dissemination and communication outputs related to the project.
+
+The detailed record is maintained in [docs/dissemination_communication.md](docs/dissemination_communication.md) and will be updated progressively with confirmed items such as:
+
+- peer-reviewed articles
+- conference presentations
+- public datasets and software outputs
+- project-related outreach or communication material
 
 ## Repository scope
 
