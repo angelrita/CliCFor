@@ -1,4 +1,17 @@
-.Rproj.user
+# macOS
+.DS_Store
+Thumbs.db
+
+# R / RStudio
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+
+# Rendered / generated
+README.html
+*.html
+
+# Temporary / logs
+*.log
+*.tmp
