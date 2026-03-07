@@ -25,13 +25,18 @@ The project combines approaches that are often used separately:
 
 ## Study sites
 
-CliCFor compares three pure conifer stands under contrasting climatic conditions:
+The table below reports the actual study sites considered during the project after the later reassessment of site selection.
 
-- `OBS` (Old Black Spruce), Saskatchewan, Canada
-- `Renon`, northern Italy
-- `Yatir`, central Israel
+| Code | Site name | Country | Lat. (deg N) | Lon. (deg E) | Elev. (m a.s.l.) | Tree species | MAT (deg C) | MAP (mm) | EC time-span | GPP (g C m^-2 yr^-1) | N. trees | QWA time-span |
+| --- | --- | --- | ---: | ---: | ---: | --- | ---: | ---: | --- | ---: | ---: | --- |
+| `OJP` | Old Jack Pine | Canada | 53.916 | -104.692 | 524 | `P. banksiana` | 0.5 | 495 | 1999-2021 | 606 | 8 | 1921-2021 |
+| `OBS` | Old Black Spruce | Canada | 53.987 | -105.118 | 629 | `P. mariana` | 0.6 | 451 | 1999-2021 | 806 | 11 | 1909-2021 |
+| `TP` | Turkey Point | Canada | 42.710 | -80.357 | 184 | `P. strobus` | 8.0 | 997 | 2003-2018 | 1434 | 12 | 1957-2019 |
+| `REN` | Renon | Italy | 46.587 | 11.434 | 1735 | `P. abies` | 6.0 | 964 | 1999-2020 | 1350 | 9 | 1929-2020 |
+| `SR` | San Rossore | Italy | 43.731 | 10.910 | 5 | `P. pinea` | 15.3 | 900 | 2013-2024 | 2651 | 9 | 1943-2022 |
+| `TOR` | Torgnon | Italy | 45.823 | 7.561 | 2050 | `L. decidua` | 2.9 | 1100 | 2012-2020 | 1322 | 8 | 1935-2021 |
 
-These sites were selected because they represent boreal, temperate/oceanic, and semi-arid conditions and include long eddy covariance records, making them suitable for cross-site analyses of climate effects on the forest carbon cycle.
+![Global map of CliCFor study sites](docs/figures/study_sites_map.png)
 
 ## Research units and roles
 

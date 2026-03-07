@@ -12,19 +12,6 @@ This file documents the chronology datasets currently stored in `data/processed/
     -   ROXAS output parameter page: <https://roxas.wsl.ch/en/forest/tree-ring-research/products/roxas/output-parameters/>
 -   Metadata policy for this file: only confirmed information is reported; unresolved items are listed explicitly without inferred definitions.
 
-## Confirmed site references
-
-The following site names were confirmed from the project site list provided by the project team.
-
-| Site code | Site name        | Country | Tree species   | QWA time span |
-|-----------|------------------|---------|----------------|---------------|
-| `OBS`     | Old Black Spruce | Canada  | `P. mariana`   | 1909-2021     |
-| `OJP`     | Old Jack Pine    | Canada  | `P. banksiana` | 1921-2021     |
-| `REN`     | Renon            | Italy   | `P. abies`     | 1929-2020     |
-| `TP`      | Turkey Point     | Canada  | `P. strobus`   | 1957-2019     |
-| `SR`      | San Rossore      | Italy   | `P. pinea`     | 1943-2022     |
-| `TOR`     | Torgnon          | Italy   | `L. decidua`   | 1935-2021     |
-
 ## ROXAS-derived abbreviation glossary
 
 The following mappings are supported directly by the ROXAS documentation.
@@ -72,7 +59,9 @@ Columns:
 -   `CN_ew.Chrono`
 -   `CN_lw.Chrono`
 -   `TRW.Chrono`
--   `RWD.Chrono` \### `OBS_RAW.CHRONO.txt`
+-   `RWD.Chrono`
+
+### `OBS_RAW.CHRONO.txt`
 
 Columns:
 
@@ -87,7 +76,9 @@ Columns:
 -   `CTA90.Chrono`
 -   `CTA50.Chrono`
 -   `NUM.Chrono`
--   `NUM.TOT.Chrono` \### `OJP_RAW_DET.CHRONO.txt`
+-   `NUM.TOT.Chrono`
+
+### `OJP_RAW_DET.CHRONO.txt`
 
 Columns:
 
@@ -96,4 +87,3 @@ Columns:
 -   `OJP_CWA_raw`
 -   `OJP_RWA_std`
 -   `OJP_RWA_raw`
-
