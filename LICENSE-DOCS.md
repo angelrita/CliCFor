@@ -1,0 +1,15 @@
+# Documentation license (CC BY 4.0)
+
+Unless otherwise stated, the documentation in this repository (including Markdown files under `docs/`, the `README.md`, and other narrative text) is licensed under:
+
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+License text:
+https://creativecommons.org/licenses/by/4.0/
