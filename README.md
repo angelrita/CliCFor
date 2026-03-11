@@ -15,9 +15,10 @@ CliCFor investigates how climate variability, extremes, and long‑term trends a
 - [Project participants](#project-participants)
 - [Work packages](#work-packages)
 - [Model used in the project](#model-used-in-the-project)
-- [Data policy and availability](#data-policy-and-availability)
-- [Repository structure](#repository-structure)
 - [Dissemination and communication](#dissemination-and-communication)
+- [Data policy and availability](#data-policy-and-availability)
+- [Repository scope](#repository-scope)
+- [Repository structure](#repository-structure)
 - [How to cite](#how-to-cite)
 - [License](#license)
 - [Acknowledgment](#acknowledgment)
@@ -141,16 +142,6 @@ When data are not redistributed, this repository aims to provide:
 - clear provenance and access notes in `data/metadata/`
 - scripts that can rebuild derived products when access is granted
 
----
-
-## Acknowledgment
-This project was supported by the National Recovery and Resilience Plan (PNRR), Mission 4, Component 2, Investment 1.1, Call for tender No. 104 published on 2.2.2022 by the Italian Ministry of University and Research (MUR), funded by the European Union - NextGenerationEU - Project Title "CliCFor" - CUP C53D23005270001 - Grant Assignment Decree No. 2022ETAB7T adopted on 14/07/2023 by the Italian Ministry of University and Research (MUR).
-
-## License
-- Code: MIT (see `LICENSE`)
-- Documentation: CC BY 4.0 (see `LICENSE-DOCS.md`)
-- Data products: CC BY 4.0 unless otherwise stated (see `LICENSE-DATA.md` and `data/metadata/`)
-
 ## Repository structure
 ```text
 CliCFor/
@@ -167,4 +158,40 @@ CliCFor/
 |  `- tables/                         generated tables
 |- CliCFor.Rproj
 `- README.md
+```
 
+---
+
+## How to cite
+
+If you use this repository, please cite it using the metadata provided in `CITATION.cff`.
+
+For software, documentation, or data products reused separately, also cite the specific component and any related publication when available.
+
+---
+
+## License
+
+- Code: MIT (see `LICENSE`)
+- Documentation: CC BY 4.0 (see `LICENSE-DOCS.md`)
+- Data products: CC BY 4.0 unless otherwise stated (see `LICENSE-DATA.md` and `data/metadata/`)
+
+---
+
+## Acknowledgment
+
+This project was supported by the National Recovery and Resilience Plan (PNRR), Mission 4, Component 2, Investment 1.1, Call for tender No. 104 published on 2.2.2022 by the Italian Ministry of University and Research (MUR), funded by the European Union - NextGenerationEU - Project Title "CliCFor" - CUP C53D23005270001 - Grant Assignment Decree No. 2022ETAB7T adopted on 14/07/2023 by the Italian Ministry of University and Research (MUR).
+
+---
+
+## Contact
+
+For repository issues, documentation corrections, or suggestions, please use the GitHub issue tracker. For scientific aspects of the project, refer to the unit leaders listed above.
+
+---
+
+## Contributing
+
+Contributions that improve documentation, metadata quality, and reproducibility are welcome.
+
+Before proposing major structural changes, please open an issue so that repository organization and data-policy constraints can be discussed first.
