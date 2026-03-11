@@ -52,6 +52,15 @@ Tab. 1. `Site Name`, the name of the forest research site where Eddy Covariance 
   - Unit lead: Massimo Tagliavini ([ORCID](https://orcid.org/0000-0002-9585-1726)) / Leonardo Montagnani ([ORCID](https://orcid.org/0000-0003-2957-9071))
   - Main role: eddy covariance flux analysis and site-level flux data coordination
 
+## Project participants
+
+In addition to the unit leaders, the project involves the following participants and collaborators:
+
+- `UNIBZ` - Free University of Bozen-Bolzano, Bolzano, Italy: Enrico Tomelleri.
+- `CNR-ISAFOM` - Forest Modelling Lab., Institute for Agriculture and Forestry Systems in the Mediterranean, National Research Council of Italy, Perugia, Italy: Alessio Collalti; Paulina F. Puchi.
+- `UNINA` - Department of Agricultural Sciences, University of Naples Federico II, Portici, Italy: Antonio Saracino; Enrica Pinelli; Greta Liuzzi.
+- `UNIPD` - Department of Land, Environment, Agriculture and Forestry (TESAF), University of Padua, Legnaro, Italy: Giancarlo Genovese.
+
 ## Work packages
 
 - `WP1 - C fluxes`: acquisition, validation, and analysis of long-term eddy covariance and climate time series
@@ -107,3 +116,8 @@ CliCFor/
 |  `- tables/                         generated tables
 |- CliCFor.Rproj
 `- README.md
+```
+
+## Acknowledgment
+
+This project was supported by the National Recovery and Resilience Plan (PNRR), Mission 4, Component 2, Investment 1.1, Call for tender No. 104 published on 2.2.2022 by the Italian Ministry of University and Research (MUR), funded by the European Union - NextGenerationEU - Project Title "CliCFor" - CUP C53D23005270001 - Grant Assignment Decree No. 2022ETAB7T adopted on 14/07/2023 by the Italian Ministry of University and Research (MUR).
