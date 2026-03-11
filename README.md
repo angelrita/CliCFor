@@ -8,8 +8,7 @@ CliCFor investigates how climate variability, extremes, and long‑term trends a
 
 ## Table of contents
 - [Status](#status)
-- [Project overview](#project-overview)
-- [Objectives and key questions](#objectives-and-key-questions)
+- [Project rationale](#project-rationale)
 - [Approach](#approach)
 - [Study sites](#study-sites)
 - [Research units and roles](#research-units-and-roles)
@@ -18,7 +17,6 @@ CliCFor investigates how climate variability, extremes, and long‑term trends a
 - [Model used in the project](#model-used-in-the-project)
 - [Data policy and availability](#data-policy-and-availability)
 - [Repository structure](#repository-structure)
-- [Quick start (RStudio)](#quick-start-rstudio)
 - [Dissemination and communication](#dissemination-and-communication)
 - [How to cite](#how-to-cite)
 - [License](#license)
@@ -38,22 +36,16 @@ This repository is being reorganized to improve documentation, data provenance, 
 
 ---
 
-## Project overview
-Forest carbon sinks are central to climate‑change mitigation, but the relationship between ecosystem carbon uptake and woody biomass accumulation is still only partially understood. CliCFor was designed to investigate **causal relationships** between climate variability (intra‑seasonal to decadal), primary productivity, and wood biomass formation, and to explain why flux‑based and biomass‑based estimates of forest carbon sequestration may diverge.
+## Project rationale
+Forest carbon sinks are central to climate-change mitigation, but the relationship between ecosystem carbon uptake and woody biomass accumulation is still only partially understood. CliCFor was designed to investigate the causal relationships between climate, primary productivity, and wood biomass, and to explain why flux-based and biomass-based estimates of forest carbon sequestration may diverge.
 
-CliCFor brings together approaches that are often used separately:
-- long eddy covariance time series (fluxes + meteorology)
-- tree‑ring quantitative wood anatomy (QWA) and biomass proxies
-- stable carbon isotopes (e.g., δ¹³C in earlywood/latewood)
-- statistical and process‑based modelling
+The project combines approaches that are often used separately:
 
----
+- long eddy covariance time series
+- tree-ring anatomy and biomass proxies
+- stable carbon isotope analyses
+- statistical and process-based modeling
 
-## Objectives and key questions
-1. Which climate drivers (temperature, precipitation, VPD, radiation, drought metrics) explain inter‑annual variability in ecosystem carbon fluxes?
-2. How do intra‑annual wood formation dynamics respond to climate variability and extremes?
-3. When and why do flux‑derived carbon balance and biomass‑derived growth diverge (or align)?
-4. Can process‑based models reproduce the observed patterns across sites, and which processes/parameters matter most?
 
 ---
 
